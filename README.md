@@ -1,4 +1,4 @@
-页面导航页
+**页面导航页**
 功能：
     1.导航公司中常用网页
     2.卡片式分类
@@ -14,5 +14,5 @@
     数据库：
         1.mysql或sqlite3
 运行环境：
-    docker容器
-https://github.com/allan869/NG_page/blob/master/NG.jpg
+    docker容器  
+![image](https://github.com/allan869/NG_page/blob/master/NG.jpg)
