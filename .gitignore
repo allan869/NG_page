@@ -1,0 +1,6 @@
+.idea
+*.pyc
+*.pyo
+home_index/__pycache__/
+index_app/__pycache__/
+migrations/
